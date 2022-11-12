@@ -35,7 +35,7 @@ namespace HomeWork_27
     {
         public static async Task Main(string[] args)
         {
-            var b = false;
+            bool b;
             int countMessage;
             do
             {
